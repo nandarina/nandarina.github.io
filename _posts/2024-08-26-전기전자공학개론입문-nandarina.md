@@ -4,5 +4,5 @@ date: 2024-08-26 05:19:00 +09:00
 categories: [전기전자]
 tags: [공부]
 pin: true
-media_subpath: '/posts/20180809'
+media_subpath: '/posts/20240826'
 ---
